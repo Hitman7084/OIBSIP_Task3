@@ -6,7 +6,7 @@ from PIL import Image, ImageTk
 import io
 
 #Replace with your WeatherAPI.com API key
-API_KEY = 'api key here'
+API_KEY = '7c5fa8ea847946a98fc131909240107'
 
 #Fetch weather data using WeatherAPI.com
 def fetch_weather(location, units='metric'):
